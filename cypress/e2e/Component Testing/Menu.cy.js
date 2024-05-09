@@ -6,9 +6,7 @@ describe('GET Route', () => {
   expect(response.body).to.have.length.above(0)
       })
 
-
   })
-
 
 })
 
